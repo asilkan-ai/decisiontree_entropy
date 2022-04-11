@@ -18,4 +18,6 @@ Entropy is an information theory metric that measures the impurity or uncertaint
 
 Features with low entropy settle closer to the root of the tree.
 
+![1_SX1YWuxPKvsBsuPP3pVwNg](https://user-images.githubusercontent.com/73762823/162846877-1ce22c8f-506d-4664-a141-1a9f272fad4f.png)
+
 This code is written for entropy but different algorithms can be easily implemented by changing the parameter (Gini etc.)
